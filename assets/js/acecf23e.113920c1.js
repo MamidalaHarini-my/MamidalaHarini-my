@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyblog_app=self.webpackChunkmyblog_app||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/MamidalaHarini-my/blog","blogTitle":"Blog","authorsListPath":"/MamidalaHarini-my/blog/authors"}')}}]);

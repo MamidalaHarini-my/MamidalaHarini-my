@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyblog_app=self.webpackChunkmyblog_app||[]).push([[756],{7068:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/MamidalaHarini-my/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
